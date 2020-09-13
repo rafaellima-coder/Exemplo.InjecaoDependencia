@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConstructorMethodology", "ConstructorMethodology", "{F5C8981D-8C76-41B1-8D63-E2B7AEF7F366}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetSetter", "GetSetter", "{5DA10BFC-0564-4CED-B6A5-817CFE97A35C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfaceImplamentation", "InterfaceImplamentation", "{BBA1856E-0DAB-4477-8E3D-F8C350822C4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceLocator", "ServiceLocator", "{E122EC72-1F29-41F3-AC8F-78E272AEB843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_ContraExemplo", "_ContraExemplo", "{DE5B0749-75CD-46DC-A3B1-3C160C6F1BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContraExemplo", "ContraExemplo\ContraExemplo.csproj", "{72EAA189-A723-4908-AE80-C1BBD48C0044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EAA189-A723-4908-AE80-C1BBD48C0044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EAA189-A723-4908-AE80-C1BBD48C0044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EAA189-A723-4908-AE80-C1BBD48C0044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EAA189-A723-4908-AE80-C1BBD48C0044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5C8981D-8C76-41B1-8D63-E2B7AEF7F366} = {A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}
+		{5DA10BFC-0564-4CED-B6A5-817CFE97A35C} = {A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}
+		{BBA1856E-0DAB-4477-8E3D-F8C350822C4B} = {A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}
+		{E122EC72-1F29-41F3-AC8F-78E272AEB843} = {A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}
+		{DE5B0749-75CD-46DC-A3B1-3C160C6F1BFA} = {A023B5FF-E5F1-423C-8CDE-BABD0BC21C87}
+		{72EAA189-A723-4908-AE80-C1BBD48C0044} = {DE5B0749-75CD-46DC-A3B1-3C160C6F1BFA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3CC595C-8BC5-4CC7-BE16-1C4F28BA7895}
+	EndGlobalSection
+EndGlobal
