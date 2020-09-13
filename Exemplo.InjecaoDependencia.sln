@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A023B5FF-E5F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConstructorMethodology", "ConstructorMethodology", "{F5C8981D-8C76-41B1-8D63-E2B7AEF7F366}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetSetter", "GetSetter", "{5DA10BFC-0564-4CED-B6A5-817CFE97A35C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetterSetter", "GetterSetter", "{5DA10BFC-0564-4CED-B6A5-817CFE97A35C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfaceImplamentation", "InterfaceImplamentation", "{BBA1856E-0DAB-4477-8E3D-F8C350822C4B}"
 EndProject
